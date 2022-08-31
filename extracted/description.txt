@@ -1,0 +1,11 @@
+            
+                     About this item          
+     This fits your .
+     
+
+    Make sure this fits by entering your model number. 
+ 
+    P.when("ReplacementPartsBulletLoader").execute(function(module){ module.initializeDPX(); })
+
+    IP32-rated spill resistance, capable of withstanding accidental spills to keep you covered.     Five dedicated and programmable Macro E keys, customizable via the UNLEASH RGB software.     Dedicated Multimedia Keys. Full control at the touch of your fingers.     5 Zone RGB Lighting and 5 pre set lighting effects customizable via the UNLEASH RGB software.     Standard layout and Cherry MX style stems allows you to use any custom Cherry MX stem compatible keycaps.     
+                                   
